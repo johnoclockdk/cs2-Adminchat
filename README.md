@@ -13,8 +13,6 @@
 ## Commands
 1. **Admin Say (`css_asay`, `css_adminsay`):** Broadcasts a message to all admin Usage: `css_adminsay <message>`.
 2. **Toggle Admin Chat (`css_toggleadminsay`, `css_tasay`):** Toggles the admin chat functionality on or off for the player.
-3. **Player Chat (`say`):** Custom handling of player chat when admin chat is toggled on.
-4. **Team Chat (`say_team`):** Custom handling of team chat when admin chat is toggled on.
 
 ## Installation
 1. **Load the Plugin:** Ensure that the `AdminChat.dll` file is placed in the appropriate directory for CounterStrikeSharp plugins.
